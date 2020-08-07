@@ -1,0 +1,33 @@
+lenguajes de programación imperativos 
+
+son los lenguajes que ejecutan instrucciones para la realizacion de una tarea, estas instrucciones pueden ser ordenes directas o ciclos.
+
+Ejemplo:
+
+  procedimiento factorial(entero n){
+     entero resultado = 1;
+     mientras (n > 0) {
+        resultado = resultado * n;
+        n = n - 1;
+     }
+     devuelve resultado;
+  }
+  
+
+
+lenguajes de programación declarativos 
+
+este tipo de lenguajes se basa en matematica y logica, estos lenguajes no dicen como realizar una tarea enfocandose en lo que se debe hacer y no en el como.
+
+Ejemplo:
+
+en este caso se tiene un programa que suma los numeros del 1 al 100.
+
+int suma = 0;
+ for (int i = 1 to 100)
+    suma += i;
+ return suma;
+
+Una solución de forma delarativa seriá:
+
+suma = Sum(1, 100)
