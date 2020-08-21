@@ -1,0 +1,26 @@
+<libros>
+    <libro>
+        <nombre>Historia de dos ciudades</nombre>
+        <autor>Charles Dickens</autor>
+        <genero>Novela, Ficción histórica</genero>
+        <año>1859</año>
+    </libro>
+    <libro>
+        <nombre>V FOR VENDETTA</nombre>
+        <autor>Alan Moore</autor>
+        <genero>Historieta, Novela</genero>
+        <año>1982</año>
+    </libro>
+    <libro>
+        <nombre>Harry Potter y la piedra filosofal</nombre>
+        <autor>J. K. Rowling</autor>
+        <genero>Novela, Fantasía</genero>
+        <año>1997</año>
+    </libro>
+    <libro>
+        <nombre>El hobbit</nombre>
+        <autor>J. R. R. Tolkien</autor>
+        <genero>Novela, Fantasía</genero>
+        <año>1937</año>
+    </libro>
+</libros>

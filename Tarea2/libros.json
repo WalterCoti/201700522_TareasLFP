@@ -1,0 +1,26 @@
+[
+    {
+      "nombre": "100 años de soledad",
+      "autor": "Gabriel García Márquez",
+      "genero": "Novela",
+      "fecha": 1967
+    },
+    {
+      "nombre": "El código Da Vinci",
+      "autor": "Dan Brown",
+      "genero": "Novela, Misterio, Thriller",
+      "fecha": 2003
+    },
+    {
+      "nombre": "El principito",
+      "autor": "Antoine De Saint-Exupéry",
+      "genero": "Literatura infantil",
+      "fecha": 1943
+    },
+    {
+      "nombre": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "genero": "Parodia, Sátira",
+      "fecha": 1605
+    }
+  ]
