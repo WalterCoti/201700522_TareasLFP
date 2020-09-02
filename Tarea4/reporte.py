@@ -55,7 +55,7 @@ th, td {
                     <td>NOMBRE</td> 
                     <td>EDAD</td>
                     <td>ACTIVO</td>
-                    <td>PROMEDIO</td>
+                    <td>SALDO</td>
                 </tr>
                 <tr>"""
 
