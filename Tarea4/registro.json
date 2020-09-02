@@ -1,0 +1,69 @@
+[
+    {
+        "nombre": "maria",
+        "edad": 23,
+        "activo": false,
+        "saldo": 2500
+    },
+    {
+        "nombre": "juan",
+        "edad": 36,
+        "activo": false,
+        "saldo": 560
+    },
+     {
+        "nombre": "ana",
+        "edad": 41,
+        "activo": false,
+        "saldo": 3500
+    },
+     {
+        "nombre": "Rafael",
+        "edad": 31,
+        "activo": true,
+        "saldo": 2500
+    },
+     {
+        "nombre": "Josefina",
+        "edad": 53,
+        "activo": false,
+        "saldo": 4000
+    },
+     {
+        "nombre": "Ronaldo",
+        "edad": 33,
+        "activo": true,
+        "saldo": 4500
+    },
+     {
+        "nombre": "Gabriela",
+        "edad": 26,
+        "activo": true,
+        "saldo": 2500
+    },
+     {
+        "nombre": "Mariano",
+        "edad": 47,
+        "activo": false,
+        "saldo": 5350
+    },
+     {
+        "nombre": "Carolina",
+        "edad": 36,
+        "activo": true,
+        "saldo": 4156
+    },
+     {
+        "nombre": "Diego",
+        "edad": 33,
+        "activo": true,
+        "saldo": 3350
+    },
+     {
+        "nombre": "Fernanda",
+        "edad": 29,
+        "activo": true,
+        "saldo": 4500
+    }
+     
+]
